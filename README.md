@@ -16,6 +16,7 @@ Understand customer preferences using ratings and item visibility
 
 Track outlet establishment trends over time
 
+
 📊 Dashboard Features
 
 KPI Cards: Total Sales, Average Sales, Number of Items, Average Rating
@@ -50,6 +51,7 @@ Regular fat products generate more sales than low-fat products
 Medium-sized outlets perform consistently across locations
 
 Fruits, snacks, and household items are top revenue contributors
+
 
 🚀 Learnings
 
