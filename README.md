@@ -60,3 +60,6 @@ Practical use of Power BI for real-world business problems
 Creating interactive dashboards for stakeholder analysis
 
 Converting raw data into meaningful insights
+
+<img width="1192" height="699" alt="Screenshot 2026-01-04 212247" src="https://github.com/user-attachments/assets/e2e1a9d2-e8fc-48e2-8825-f8b3cba91dda" />
+
